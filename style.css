@@ -22,7 +22,7 @@ header {
   background-color: #0d9488;
   color: white;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   font-size: 24px;
   font-weight: bold;
 }
@@ -30,11 +30,10 @@ header {
 nav {
   display: flex;
   justify-content: center;
-  background-color: #1e3a8a;
+  background-color: #100777;
   padding: 10px;
   border-radius: 10px;
   margin: 20px auto;
-  width: 90%;
 }
 
 nav button {
